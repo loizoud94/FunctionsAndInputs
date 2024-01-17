@@ -1,0 +1,140 @@
+Aberdeen: £38
+Abu Dhabi: £48
+Addis Ababa: £29
+Agadir: £23
+Alicante: £34
+Almeria: £28
+Amsterdam: £42
+Antalya: £33
+Athens: £38
+Atlanta: £57
+Barbados: £68
+Barcelona: £33
+Bari: £28
+Basel: £42
+Bastia: £33
+Beijing: £47
+Belfast International: £28
+Belfast City: £28
+Bergen: £38
+Berlin: £33
+Bilbao: £28
+Billund: £28
+Bodrum: £33
+Bordeaux: £33
+Boston: £57
+Brussels: £42
+Budapest: £38
+Cancun: £68
+Casablanca: £28
+Catania: £33
+Chambery: £38
+Chania: £28
+Cologne: £33
+Copenhagen: £38
+Corfu: £33
+Cork: £28
+Dalaman: £33
+Doha: £47
+Dubai: £47
+Dublin: £33
+Dubrovnik: £38
+Dusseldorf: £33
+Edinburgh: £38
+Exeter: £28
+Faro: £33
+Frankfurt: £42
+Fuerteventura: £33
+Funchal: £38
+Geneva: £42
+Gerona: £28
+Gibraltar: £38
+Glasgow: £38
+Gran Canaria: £33
+Granada: £28
+Grenoble: £38
+Guernsey: £28
+Hamburg: £33
+Hanover: £28
+Helsinki: £42
+Heraklion: £33
+Hong Kong: £57
+Houston: £57
+Hurghada: £23
+Ibiza: £33
+Innsbruck: £28
+Inverness: £28
+Isle Of Man: £28
+Istanbul: £33
+Izmir: £33
+Jeddah: £57
+Jerez De La Frontera: £28
+Jersey: £28
+Kalamata: £33
+Kefalonia: £28
+Knock: £28
+Kos: £28
+Krakow: £33
+La Rochelle: £28
+Lanzarote: £33
+Larnaca: £33
+Las Vegas: £68
+Lisbon: £33
+London City: £57
+London Heathrow: £57
+Los Angeles: £68
+Luxembourg: £42
+Lyons: £38
+Madrid: £33
+Majorca: £38
+Malaga: £33
+Malta: £38
+Marrakech: £23
+Marseille: £38
+Menorca: £38
+Milan: £42
+Montego Bay: £68
+Munich: £42
+Muscat: £42
+Mykonos: £38
+Mytilene: £33
+Naples: £38
+Newark: £68
+New York JFK: £68
+Newquay: £28
+Nice: £42
+Orlando International: £68
+Orlando Sanford: £57
+Oslo: £42
+Paphos: £33
+Paris CDG: £42
+Philadelphia: £57
+Pisa: £38
+Porto: £38
+Prague: £38
+Preveza-Lefkas: £33
+Reus: £28
+Reykjavik: £38
+Rhodes: £33
+Rome: £42
+Rovaniemi: £28
+Salzburg: £38
+Santorini: £38
+Sharm El Sheikh: £23
+Singapore: £57
+Skiathos: £33
+Sofia: £33
+Southampton: £28
+Split: £38
+Stockholm: £42
+Tel Aviv: £42
+Tenerife: £33
+Thessaloniki: £33
+Tivat: £38
+Toronto: £57
+Vancouver: £57
+Venice: £42
+Verona: £38
+Vienna: £42
+Zakinthos: £33
+Zurich: £42

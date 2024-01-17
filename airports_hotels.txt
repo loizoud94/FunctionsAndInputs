@@ -1,0 +1,140 @@
+Aberdeen: £87
+Abu Dhabi: £132
+Addis Ababa: £67
+Agadir: £58
+Alicante: £102
+Almeria: £78
+Amsterdam: £142
+Antalya: £87
+Athens: £114
+Atlanta: £162
+Barbados: £180
+Barcelona: £125
+Bari: £92
+Basel: £132
+Bastia: £87
+Beijing: £103
+Belfast International: £92
+Belfast City: £92
+Bergen: £114
+Berlin: £125
+Bilbao: £92
+Billund: £78
+Bodrum: £87
+Bordeaux: £102
+Boston: £162
+Brussels: £142
+Budapest: £114
+Cancun: £180
+Casablanca: £78
+Catania: £102
+Chambery: £125
+Chania: £92
+Cologne: £114
+Copenhagen: £132
+Corfu: £102
+Cork: £92
+Dalaman: £87
+Doha: £180
+Dubai: £180
+Dublin: £125
+Dubrovnik: £114
+Dusseldorf: £125
+Edinburgh: £114
+Exeter: £92
+Faro: £102
+Frankfurt: £142
+Fuerteventura: £102
+Funchal: £114
+Geneva: £132
+Gerona: £92
+Gibraltar: £114
+Glasgow: £114
+Gran Canaria: £102
+Granada: £92
+Grenoble: £125
+Guernsey: £92
+Hamburg: £125
+Hanover: £114
+Helsinki: £142
+Heraklion: £102
+Hong Kong: £162
+Houston: £162
+Hurghada: £78
+Ibiza: £125
+Innsbruck: £114
+Inverness: £92
+Isle Of Man: £92
+Istanbul: £114
+Izmir: £87
+Jeddah: £162
+Jerez De La Frontera: £92
+Jersey: £92
+Kalamata: £102
+Kefalonia: £92
+Knock: £92
+Kos: £92
+Krakow: £102
+La Rochelle: £92
+Lanzarote: £102
+Larnaca: £102
+Las Vegas: £180
+Lisbon: £125
+London City: £162
+London Heathrow: £162
+Los Angeles: £180
+Luxembourg: £142
+Lyons: £125
+Madrid: £125
+Majorca: £114
+Malaga: £102
+Malta: £114
+Marrakech: £78
+Marseille: £125
+Menorca: £114
+Milan: £142
+Montego Bay: £180
+Munich: £142
+Muscat: £132
+Mykonos: £125
+Mytilene: £102
+Naples: £114
+Newark: £180
+New York: £180
+Newquay: £92
+Nice: £132
+Orlando International: £180
+Orlando Sanford: £162
+Oslo: £142
+Paphos: £102
+Paris CDG: £142
+Philadelphia: £162
+Pisa: £125
+Porto: £114
+Prague: £125
+Preveza-Lefkas: £102
+Reus: £92
+Reykjavik: £125
+Rhodes: £102
+Rome: £142
+Rovaniemi: £114
+Salzburg: £125
+Santorini: £125
+Sharm El Sheikh: £78
+Singapore: £162
+Skiathos: £102
+Sofia: £102
+Southampton: £92
+Split: £114
+Stockholm: £142
+Tel Aviv: £142
+Tenerife: £102
+Thessaloniki: £102
+Tivat: £114
+Toronto: £162
+Vancouver: £162
+Venice: £132
+Verona: £125
+Vienna: £142
+Zakinthos: £102
+Zurich: £132
